@@ -1,0 +1,35 @@
+test:run-main problems.Launcher Mux2
+claen
+clean
+test:run-main MyCore.Launcher Top 
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
+test:run-main MyCore.Launcher Top
+test:run-main MyCore.Launcher Top --backend-name verilator
